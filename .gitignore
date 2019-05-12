@@ -12,3 +12,4 @@ gen
 /Scripts/
 /tcl/
 /geckodriver.log
+*.pyc
